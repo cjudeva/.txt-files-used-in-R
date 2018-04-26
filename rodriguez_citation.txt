@@ -1,0 +1,51 @@
+Author	Year	Title	Publication Type
+Agresti, A., Finlay, B.	1997	Statistical methods for the social sciences	Monograph
+Alarcon, M., Villalpando, S., & Fajardo, A.	1997	Breast-feeding lowers the frequency and duration of acute respiratory infection and diarrhea in infants under six months of age	Journal Article
+Alcantara, A., Rodriguez, M., & Cabigon, J.	2000	Determinants of child mortality and morbidity	X
+Anderson, M.	X	The impact of breastfeeding on infant and child morbidity and mortality: in child health priorities for the 1990s	Report
+Cabigon, J.	1990	Philippine mortality in changing times	Thesis
+Cabigon, J.	2000	Revisiting the 'best' covariates of infant and child mortality: the Philippine case	Journal Article
+Caldwell, J.	1996	Demography and social science	Journal Article
+Caselli, G., Vallin, J., & Wunsch, G.	X	Health, morbidity, and causes of death	X
+Chen, Y.	1988	Chang-Ning epidemiological study of children's health: passive smoking and children's respiratory diseases	Journal Article
+Colley, J.	1974	Influence of passive smoking and parental phlegm on pneumonia and bronchitis in early childhood	Monograph
+Costello, M., Jensen, E., & Lleno, L.	1994	Determinants of infant/child morbidity and health care utilization: findings from the 1993 National Demographic Survey of the Philippines	Journal Article
+Da Vanzo, J., & Habicht., J.	1986	Infant mortality decline in Malaysia, 1946-1975: the roles of changes in variables and changes in the structure of relationships	Journal Article
+Dayrit, E.	1999	A national program for control of acute respiratory infections: the Philippine experience	Journal Article
+Deb, S.	1998	Acute respiratory disease survey in Tripura in case of children below five years of age	Journal Article
+Department of Health	1999	National objectives for health Philippines 1999-2004	Monograph
+Garenne, M., Ronsmans, C., & Campbell, H.	1992	The magnitude of mortality from acute respiratory infections in children under 5 years in developing countries	Journal Article
+Glenzen, W., & Alpers, M.	1999	Maternal immunization	Journal Article
+Gwatkin, D.	2000	Socioeconomic differences in health, nutrition and population in the Philippines for the HNP	X
+Kartasasmita C.	1992	Evaluation of risk factors for acute respiratory infections in under-five children in a transmigratory urban area at Bandung, Indonesia	Journal Article
+Kaushik, P.	1995	Nutritional correlates of acute respiratory infections	Journal Article
+Leeder, S.	1978	Influence of family factors on the incidence of lower respiratory illness during the first year	Journal Article
+Leowski, J.	1986	Mortality from acute respiratory infections in children under 5 years of age: global estimates	Journal Article
+Mishra V., & Retherford, R.	1997	Cooking smoke increases the risk of acute respiratory infection in children	Journal Article
+Mosley, W.	1958	Will primary health care reduce infant and child mortality? A critique of some current strategies, with special reference to Africa and Asia	X
+Mosley, W., & Chen, L.	1984	An analytical framework for the study of child survival in developing countries	Journal Article
+National Statistics Office	1993	National Demographic Survey 1993	Monograph
+National Statistics Office, Department of Health, & Macro International Inc.	1999	National Demographic and Health Survey 1998	Monograph
+National Statistics Office, Department of Health, & Macro International Inc.	2004	National Demographic and Health Survey 2003	Monograph
+Omariba, D.	2001	Child morbidity in Kenya: does women's status matter?	X
+Omran, A.	1971	The epidemioogic transition:  theory of the epidemiology of population change	Journal Article
+Palloni A., & Tienda, M.	1986	The effects of breastfeeding and pace of childbearing on mortality at early stages	Journal Article
+Philippine Health Statistics	2000	Health intelligence service	Monograph
+Popkin, B., Adair, L., Akin, J., Black, R., Briscoe, J., & Flieger, W.	1990	Breastfeeding and diarrheal morbidity	Journal Article
+Pungrassami, P.	1995	Country report on epidemiologic research on acute respiratory infection	Proceedings
+Rahman M., &  Rahman, A.	1997	Prevalence of acute respiratory tract infection and its risk factors in under five children	X
+Rossi-Espagnet, A., Goldstein, G., & Tabibzadeh, I.	1991	Selected health problems	Journal Article
+Ruutu, P., & Lucero, M.	1994	Respiratory infections	X
+Lankinen, K.	X	Health and disease in developing countries	Monograph
+Steinhoff, M.	1991	Prevalence and treatment of acute respiratory infection in three DHS countries	Proceedings	
+Tupasi, T., Velmonte, M., Sanvictores, M., Abraham, L., de Leon, L., Tan, S., Miguel, C., & Saniel, M.	1988	Determinants of morbidity and mortality due to acute respiratory infection: implications for intervention	Journal Article
+UNICEF/WHO	2006	Pneumonia: the forgotten killer of children	X
+Vallin, J., Caselli, G., & Surault, P.	X	Behavior, lifestyles, and sociocultural factors  factors of mortality	X
+Cassefli, G., Vallin, J., & Wunsch, G.	X	Demography: Analysis and Synthesis	X
+World Health Organization	1984	A programme for controlling acute respiratory infections in children: memorandum from a WHO meeting	Journal Article
+World Health Organization	1998	Bulletin of the World Health Organization	X
+World Health Organization	1992	Implementation of the global strategy for health for all by the Year 2000, second evaluation and eighth report on the world health situation	Monograph
+World Health Organization	2005	The World Health Report	Monograph 
+Yoon, P.	1997	The effect of malnutrition on the risk of diarrheal and respiratory mortality in children less than two years of age in Cebu, Philippines	Journal Article
+Zablan, Z.	1988	The morbidity and mortality differentials: Philippines	Report
+Zaman, K.	1997	Acute respiratory infections in children: a community based longitudinal study in rural Bangladesh	Journal Article

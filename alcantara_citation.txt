@@ -1,0 +1,61 @@
+Author	Year	Title	Publication Type
+Agresti, A., & Finlay, B.	1997	Statistical methods for the social sciences.	Monograph
+Ahmad, O., Lopez, A., & Inoue.	2000	The decline in child mortality: A reappraisal.	Journal Article
+Alvarez G.	1986	Socio-economic correlates of mortality in the Philippines Socio-Economic Correlates of Mortality in Japan and Asean Countries.	Monograph
+Becker, S., & Black R.	1996	A model of child morbidity, mortality, and health interventions.	Journal Article
+Black, R.	1984	Diarrheal diseases and child morbidity and mortality.	Journal Article
+Cabigon, J.	2002	Revisiting the 'best' covariates of infant and child mortality.	Paper
+Cabigon, J.	1990	Philippine mortality in changing times.	Thesis
+Cabigon, J., Park C., & Kantner, A.	1994	Measuring the effects of child death and lactation on subsequent fertility in the Philippines: An application of the hazard model.	Journal Article
+Caldwell, J.	X	Routes to low mortality in poor countries.	Journal Article
+Caldwell, J.	1979	Education as a factor in mortality decline: an examination of Nigerian data.	Journal Article
+Caldwell, J., & McDonald, P.	1981	Influence of maternal education on infant and child mortality: Levels and causes.	X
+CDC on Vaccines and Children's Health	1999	WHO in health and economic productivity.	Journal Article
+Costello, M.	X	Infant and childhood mortality research in the Philippines: A review and an agenda.	X
+Davanzo, J., & Habicht J.	X	What accounts for the decline in infant mortality in peninsular Malaysia, 1946-1975?	X
+Davanzo, J.	1988	Infant mortality and socioeconomic development: Evidence from Malaysian household data.	Journal Article
+De Sweemer, C.	1984	The influence of child spacing on child survival.	Journal Article
+De Guzman, E.	1984	The effects of infant mortality on fertility in the Philippines.	Monograph
+Devlieger, H., Martens, G., & Bekaert, A.	2005	Social inequalities in perinatal and infant mortality in northern region of Belgium.	Journal Article
+Ewbank, D., & Gribble, J.	1993	Effects of health programs on child mortality in Sub-Saharan Africa.	X
+Farren, M.	1984	Child mortality and health in Latin America: An annotated bibliography from the 1972-1982 literature.	Monograph
+Foster, S.	1984	Immunizable and respiratory diseases and child mortality.	Journal Article
+Gultiano, S.	1992	Child mortality in Metro Cebu: 1988-1990.	Journal Article
+Hanmer, L., & White	2003	Infant and child mortality in developing countries: Analysing the data for robust determinants.	Journal Article
+Hill, K.	2003	Frameworks for studying the determinants of child survival.	Journal Article
+Hill, K., & Pebley, A.	1989	Child mortality in the developing world.	Journal Article
+Hobcraft, J., McDonald J., & Rutstein S.	1983	Child spacing effects on infant and early child mortality.	Journal Article
+Huffman, S., & Lamphere B.	1984	Breastfeeding performance and child survival.	Journal Article
+Koenig, M., Phillips J., Campbell, O., & Souza, S.	1990	Birth intervals and childhood mortality in rural Bangladesh.	Journal Article
+Kunitz, S.	1987	Explanations and ideologies of mortality patterns.	Journal Article
+Legrand, T., & Phillips, J.	1996	The effect of fertility reductions on infant and child mortality: evidence from Matlab in rural Bangladesh.	Journal Article
+Machado, C., & Hill K.	2005	Maternal, neonatal and community factors influencing neonatal mortality in Brazil.	Journal Article
+Madise, N., Banda, E., & Benaya, K.	2003	Infant mortality in Zambia: Socioeconomic and demographic correlates.	Journal Article
+Martin L.	1983	Covariates of child mortality in the Philippines, Indonesia and Pakistan: An analysis based on Hazard Models.	Journal Article 
+MIMAP Project Updates	1994	Infant deaths decreasing in recent years.	X
+Mosley, W., & Chen, L.	1984	An analytical framework for the study of child survival in developing countries.	Journal Article
+Mosley, W.	1984	Child survival: Research and policy.	Journal Articl
+National Statistics Office, United States Agency for International Development, & ORC Macro	2004	Philippines National Demographic Health Survey 2003.	Survey 
+Norusis, M.	1994	SPSS Advanced Statistics 6.1.	Monograph
+Oloo, J.	2005	Child mortality in developing countries: Challenges and policy options.	Journal Article
+Palloni, A.	1986	Effects of breastfeeding and pace of childbearing on mortality.	Monograph
+Park, C., Cabigon, J., Zafra, J., Kantner, A., & Jose M.	1993	The determinants of infant and child survival in the Philippines.	X
+Reid, A.	2001	Neonatal mortality and stillbirths in early twentieth century Derbyshire, England.	Journal Article
+Sastry N.	2004	Trends in socioeconomic inequalities in mortality in developing countries: The case of child survival in Sao Paulo, Brazil.	Journal Article
+Stroobant, G.	X	Theories and frameworks for the study of child mortality.	X
+Retherford, R., & Choe, M.	1993	1993 Statistical models for causal analysis.	Monograph
+Retherford R., Choe, M., Thapa, S., & Gubhaju, B.	1989	To what extent does breastfeeding explain birth-interval effects on early childhood mortality?	Journal Article
+Ruzicka, L.	X	Problems and issues in the study of mortality differentials.	Monograph
+Sawyer, D.	1986	Infant and child mortality and morbidity: Reflections on theoretical and methodological issues.	Proceedings
+Shryock, H., & Siegel, J.	1976	The methods and materials of demography.	Monograph
+Schultz, P.	1984	Studying the impact of household economic and community variables on child mortality.	Journal Article
+Taucher, E.	1988	Effects of decreasing fertility on infant mortality levels. Infant Mortality and Health Studies.	Monograph
+United Nations	1985	Socio-economic differentials in child mortality in developing countries.	Monograph
+The United Nations Children's Fund	2003	UNICEF's conceptual framework.	X
+Venkatacharya, K., & Teklu, T.	1986	Conceptual framework for the study of child health and child care.	Proceedings
+Ware, H.	1984	Effects of maternal education, women's roles, and child care on child mortality.	Journal Article
+West, S.	X	Infant mortality in the Philippines: causes and correlates.	X
+White M., & Preston S.	1996	How many Americans are alive because of twentieth-century improvements on mortality?	Journal Article
+Vogl, T.	X	New routes to low mortality in poor countries? Crossover in the roles of income and female education.	Journal Article
+Zaba B., & David P.	1996	Fertility and the distribution of child mortatity risk among women: An illustrative analysis.	Journal Article
+Zablan, Z.	1988	The morbidity and mortality differentials.	X

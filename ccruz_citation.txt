@@ -1,0 +1,65 @@
+Author	Year	Title	Publication Type
+Anderson, D.	1998	Abortion, women's health and fertility	Journal Article
+Bongaarts, J.	1978	A framework for analyzing the proximate determinants of fertility	Journal Article
+Bongaarts, J., & Potter, R.	1983	Fertility behaviour: An analysis of the proximate determinants	Monograph
+Bongaarts, J.	2001	Fertility and reproductive preferences in post-transitional societies	X
+Bongaarts, J.	2005	The causes of stalling fertility transitions	Monograph
+Bongaarts, J., & Watkins, S.	1996	Social interactions and contemporary fertility transitions	Journal Article
+Brown, R., Norville, C.	2001	Theories of fertility	Report
+Cabigon, J.	X	Abortion and contraception: their role  in explaining Philippine fertility change	X
+Cabigon, J.	1996	Abortion: its prevalenceand covariates based on a cluster survey in Metro Manila	Report
+Caldwell, J.	1982	Theory of fertility decline	Monograph
+Casterline, J., Domingo, L., Zablan, Z.	1988	Trends in fertility in the Philippines: an integrated Analysis of Four Surveys	Report
+Central Bureau of Statistics, Ministry of Health, & ORC Macro	2004	Kenya demographic and health Survey 2003	Monograph
+Cleland, J., & Wilson, C.	1987	Demand theories of the fertility transition: an iconoclastic review	Journal Article
+Costello, M., & Casterline, J.	2003	Fertility decline in the Philippines: current status, future reports	Monograph
+Davis, K., & Blake, J.	1956	Social structure and fertility: an analytic framework	Journal Article
+De Guzman, E.	1984	Determinants of nuptiality in the Philippines: some new findings	Monograph
+Dissanayake, L.	1996	Relative impact of starting, spacing and stopping fertility behavior in Sri Lanka Glurch Gate: SNDT	Journal Article
+Easterlin, R.	1975	An economic framework for fertility analysis	Journal Article
+Engracia, L., & Herrin, A.	1984	Female work participation and fertility in the Philippines	Monograph
+Go, E., Palmore, J., Tabije, T., Reolalas, A.	1995	Regional variations in Philippine fertility: an exposure analysis for 1993	Monograph
+Hajnal, J.	1953	Age at marriage and proportions marrying	Journal Article
+Herrin, A.	1979	Rural electrification and ferility change in the Southern Philippines	Journal Article
+Islam, N., & Islam, M.	1990	Biological and behavioral determinants of fertility in Bangladesh: 1975-1989	Monograph
+Jejeebhoy, S.	1995	Women's education, autonomy and reproductive behavior: experience from developing countries	Monograph
+Juarez, F.	2005	The incidence of induced abortion in the Philippines: current level and recent trends	Journal Article
+Kabamalan, M.	2004	New path to marriage: the significance of increasing cohabitation in the Philippines	Journal Article
+Kabamalan, M.	2008	Personal communication	X
+Laing, J.	1978	Estimating the effects of contraceptive use on fertility techniques and findings from the 1974 Philippine National Acceptor Survey	Journal Article
+LLoyd, C.	1991	The contribution of the world fertility surveys to an understanding of the relatioship between women's work and fertility	Journal Article
+Luo, S.	2004	Women's work and timing of second birth in the Philippines	Thesis
+Maitra, P.	2004	Effect of socioeconomic characteristics on age at marriage and total fertility in Nepal	Journal Article
+National Statistics Office, & ORC Macro	2004	Demographic and Health Survey 2003	Monograph
+National Statistics Office, Department of Health, & Macro International Inc	1999	Demographic and Health Survey 1998	Monograph
+National Statistics Office, & Macro International Inc.	1994	Demographic and Health Survey 1993	Monograph
+Natividad, J., & Marquez, M.	2004	Social risk behaviors	Report
+Notestein, F.	1953	Economic problems of population change. In Proceedings of the Eight International Conference of Agricultural Economists. London: Oxford University Press.
+Ogena, N., & Reolalas, A.	2006	Povery, fertility and family planning in the Philippines: effects and counterfactual simulations	Monograph
+Ogena, N., & Kabamalan, M.	X	Marital arrangements in a flux? union formation in selected areas in the Philippines	Report
+Orbeta, A.	2002	Population and poverty: a review of the links, evidence and implications  for the Philippines	X
+Peng, T.	2002	Social, economic and ethnic fertility differentials in peninsular Malaysia	X
+Perez, A.	1994	Fertility in the Philippines: what the 1993 National Demographic Survey say	X
+Potter, J., Schmertmann, C., & Cavenaghi, S.	2002	Fertility and development: evidence from Brazil	Journal Article
+Pritchett, L.	1994	Desired fertility and the impact of population policies	Journal Article
+RAND Abstracts	1997	Contraception and fertility in Zimbabwe	Monograph
+Raymundo, C.	1980	A study of the risk facors affecting the Filipino mothers' decision to breastfeed	Dissertation
+Raymundo, C.	1980	An analysis of the covariates of the duration of breastfeeding	Dissertation
+Raymundo, C.	1981	The roles of lactation and contraceptive practices in the fertility of the Filipino women. Paper submitted to the Department of Population Sciences, Harvard School of Public Health as part of doctoral dissertation.
+Raymundo, C., Perez, A., Nazario, M., & Mason, K.	1993	Female education and fertility in the Philippines: why the two are linked	Report
+Raymundo, C.	2001	Unsafe abortion in the Philippines: a threat to public health	Research
+Raymundo, C., & Cruz, G.	2004	Youth sex and risk behaviors in the Philippines	Report
+Razzaque, A., Islam, M., & Alam, N.	1998	Contraception among limiters and spacers in Matlab, Bangladesh	Journal Article
+Rosenzweig, M.	1977	Female work: experience, employment status, and birth expectation: sequential decision-making in the Philippines	Journal Article
+Rossman, I.	1967	Sex, family and birth control	Monograph
+Sasota, R.		2007	An analysis of poverty, family planning practice and fertility in the Bicol region	Thesis
+Sen, A.	1999	Development as freedom	Monograph
+Sibanda, A.	2003	The proximate determinants of the decline to below replacement fertility in Addis Ababa, Ethiopia	Journal Article
+Susheela S., & Sedgh, G.	1997	The relationship of abortion to trends in contraception and fertility in Brazil, Colombia and Mexico	Journal Article
+Singh, S.	2006	Unintended prgnancy and induced aboriton in the Philippines: causes and consequences	Monograph
+Stover, J.	1997	Revising the proximate determinants of fertility framework: what have we learned in the past twenty years?	X
+United Nations	1983	Manual X: indirect techniques for demographic estimation	Monograph
+Zlidar, V., & Gardner, R.	2001	Why increasing contraceptive use doesn't always result in an immediate decline in total fertility rate	Monograph
+X	X	X	Online
+X	X	X	Online
+X	X	X	Online

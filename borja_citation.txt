@@ -1,0 +1,61 @@
+Author	Year	Title	Publication Type
+Agresti, A. & Barbara, F.	2009	Statistical methods for the social science.	Monograph
+Angsioco, E.	2006	End VAW: A complete reference book on the anti-violence against women and their children act of 2004 (Republic Act 9262).	Monograph
+Arugaan ng Kalakasan	1994	Pambubugbog sa asawa: Sino ang May Sala?	Monograph
+Arugaan ng Kalakasan	1995	Action Against Violence Against Women: The Arugaan ng Kalakasan Experience.	Monograph
+Bates, L.	X	Socioeconomic factors and processes associated with domestic violence in rural Bangladesh.	Journal Article
+Bawah, A.	1999	Women's fears and men's anxieties: The impact of family planning on gender relations in Northern Ghana.	Journal Article
+Biddlecom, A., Casterline, J. & Perez, A.	1997	Spouses' views of contraception in the Philippines.	Journal Article
+Biddlecom, A., &  Fapohunda, B.	1998	Covert contraceptive use: prevalence, motivations and consequences.	Journal Article
+Bongaarts, J.	1991	The KAP-Gap and the unmet need for contraception.	Journal Article
+Bongaarts, J., & Bruce, J.	1995	The causes of unmet need for contraception and the social content of services.	Journal Article
+Caragay, J., & Cayabyab, M.	1997	Selected cases of intra-family and household violence in government organization and non-government organization shelters. Breaking the silence: The realities of family violence in the Philippines and recommendations for change.	Report
+Casterline, J., Perez, A., &  Biddlecom, A.	1996	Factors underlying unmet need for family planning in the Philippines.	Working Paper
+Casterline, J., & Sinding, S.	2000	Unmet need for family planning in developing countries and implications for population policy.	Journal Article
+Casterline, J.	2003	Unmet need and unintended fertility: longitudinal evidence from upper Egypt.	Journal Article
+Clark, C.	2008	Intimate partner violence and interference with women's efforts to  avoid pregnancy in Jordan.	Journal Article 
+Commission on Population	2001	Time to act: Needs, options and decisions.	Report
+Demographic Research and Development Foundation, Inc.	2010	The UNFPA 6th Country Program Endline Survey Report. Volume 1.	Report
+De Dios, A.	1999	Hidden no more: Violence against women in the Philippines. Breaking the Silence: Violence Against Women in Asia.	Monograph
+Dixon-Mueller, R., & Germain, A.	1992	Stalking the elusive unmet need for family planning.	Journal Article
+Dixon-Mueller, R.	1993	The sexuality connection in reproductive health.	Journal Article
+Ellsberg, M.	1999	Domestic violence and emotional distress among Nicaraguan women.	Journal Article
+Ellsberg, M.	2001	Researching domestic violence against women: methodological and ethical considerations.	Journal Article
+Erulkar, A.	X	The experience of sexual coercion among young people in Kenya.	Journal Article
+Ezeh, A.	1993	The influence of spouses over each other's contraceptive attitudes in Ghana.	Journal Article
+Fanslow, J.	2008	Contraceptive use and associations with intimate partner violence among a population-based sample in New Zealand.	Journal Article
+Garcia-Moreno, C.	2006	Prevalence of intimate paper violence: Findings from the WHO multi-country study on women's health and domestic violence.	Journal Article
+Guerrero, S., & Sobritchea, C.	1997	Breaking the silence: the realities of family violence in the Philippines and recommendations for change.	Report
+Guerrero, S., &  Penano-Ho, L.	1999	The many faces of violence: abusers and abusive relationships in Filipino families.	Monograph
+Haile, A., & Enqueselassie, F.	2006	Influence of women's autonomy on couple's contraception use in Jimma Town, Ethiopia.	Journal Article
+Heise, L.	1999	Ending violence against women.	Journal Article
+Hindin, M., & Adair, L.	2002	Who's at risk? factors associated with intimate partner violence in the Philippines.	Journal Article
+Kishor, S. & Johnson, K.	2004	Profiling domestic violence: a multi-country study.	Monograph
+Koenig, M.	2003	Women's status and domestic violence in rural Bangladesh: Individual and community level effects.	Journal Article
+Koenig, M.	2004	Coerced first intercourse and reproductive health among adolescent women in Rakai, Uganda.	Journal Article
+Lasee, A., & Becker, S.	1997	Husband-wife communication about family planning and contraceptive use in Kenya.	Journal Article
+Mahmoud, N., & Ringheim, K. 	1997	Knowledge, approval and communication about family planning as correlates of desired fertility among spouses in Pakistan.	Journal Article 
+National Statistics Office, & Macro International Inc.	1994	National safe motherhood survey 1993.	Survey
+National Statistics Office, & ICE Macro	2009	National demographic and health survey 2008.	Survey
+Nortman, D.	1982	Measuring the unmet need for contraception to space and limit birth.	Journal Article
+Pallito, C. & Ocampo, P.	2004	The relationship between intimate partner violence and unintended Pregnancy: Analysis of a National Sample from Colombia.	Journal Article
+Parish, W.	2004	Intimate partner violence in China: national prevalence, risk factors and associated health problems.	Journal Article
+Pedroso, L.	2008	Determinants of fertility preference among men, women and couples in the Philippines.	Thesis.
+Philippine Commission on Women	2010	Magna Carta of women: Implementing rules and regulations.	Law
+Reddy, P.	2003	Unmet need for contraception: how real is it?	Journal Article
+Sambisa, W.	2010	Physical and sexual abuse of wives in urban Bangladesh: husbands' reports.	Journal Article
+Schuler, S., & Islam, F.	2008	Women's acceptance of intimate partner violence within marriage in rural Bangladesh.	Journal Article
+Sing S.	2006	Unintended pregnancy and induced abortion in the Philippines: Causes and consequences.	Monograph
+Stephenson, R.	2006	Domestic violence and contraceptive adoption in Uttar Pradesh, India.	Journal Article
+Stephenson, R.	2008	Domestic violence, contraceptive use and unwanted pregnancy in rural India.	Journal Article
+United Nations Development Fund for Women	2009	CEDAW in the Philippines: The UNIFEM South East Asia Programme 2005-2008.	X
+Walker, L.	1999	Psychology and domestic violence around the world.	Journal Article
+Watts, C. & Mayhew, S.	2004	Reproductive health services and intimate partner violence: shaping a pragmatic response in sub-Saharan Africa.	Journal Article
+Weston, C.	1978	The unmet need for birth control in five Asian countries.	Journal Article
+Weston, C., & Pebley, A.	1981	Alternative measures of unmet need for family planning in developing countries.	Journal Article
+Weston, C.	1988	Is the KAP-Gap Real?	Journal Article
+Weston, C.	1988	The potential demand for family planning: a new measure of unmet need and estimates for five Latin American countries.	Journal Article
+Weston, C., & Bankole, A.	1995	The potential demographic significance of unmet need.	Journal Article
+Wolf, B.	2000	The role of couple negotiation in unmet need for contraception and the decision to stop childbearing in Uganda.	Journal Article
+World Health Organization	1999	Putting women's safety first: Ethical and safety recommendations for research on domestic violence against women.	Monograph
+Zablan, Z., & Yabut, B.	2005	Unmet need for family planning in the Philippines and its regions in the 2003 NDHS.	Monograph

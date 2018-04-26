@@ -1,0 +1,39 @@
+Author	Year	Title	Publication Type
+Afifi, A., May, S., & Clark, V.	2012	Practical multivariate analysis. (5th ed.).	Book
+Asian Development Bank	2009	Poverty in the Philippines: Causes, constraints, and opportunities.	Monograph
+Cruz, G., Natividad, J., Saito, Y., and Gonzales, M.	n. d.	Aging in the Philippines: Findings from the 2007 Philippine study on aging.	Monograph
+Demographic and Health Surveys Program	n. d.	Data quality and use.	Online
+Demographic and Health Surveys Program	n. d.	DHS overview.	Online
+Demographic Research and Development Foundation, & University of the Philippines Population Institute	2014	The 2013 young adult fertility and sexuality survey in the Philippines: Key findings.	Monograph
+Demographic Research and Development Foundation, & University of the Philippines Population Institute.	n. d.	2002 young adult fertility and sexuality survey technical notes on the creation of the wealth index.	Monograph
+Department of Social Welfare and Development	n. d.	The Pantawid Pamilyang Pllipino Program (4Ps).	Online
+Dutton, W., & Blank, G.	2013	Cultures of the Internet: The Internet in Britain.	Survey
+Elliott, A. C., & Woodward, W. A.	2007	Statistical Analysis: Quinn Reference Guidebook with SPSS Examples.	Monograph
+Ericta, C., & Fabian, E.	2009	A documentation of the Philippines' family income and expenditure survey.	Discussion Paper
+Ericta, C., & Luis, J.	2009	A documentation of the annual poverty indicators survey.	Discussion Paper
+Fabio, M., Choi, Y., & Bird, S.	2012	 A Systematic review of demographic and health surveys: data availability and utilization for research.	Online
+Falkingham, J., & Namazie, C.	2002	Measuring health and poverty: A review of approaches to identifying the poor.	Monograph
+Filmer, D., & Pritchett, L.	2001	Estimating wealth effects without expenditure data or tears: An application to educational enrollment in states of India.	Journal Article
+Filmer, D., & Pritchett, L.	1999	The effect of household wealth on educational attainment: Evidence from 35 countries.	Journal Article
+Fry, K., Firestone, R., & Chakraborty, N.	2014	Measuring equity with nationally representative wealth quintiles.	Monograph
+Galperin, H., Mariscal, J., & Barrantes, R.	2014	The internet and poverty: Opening the black box.	X
+Institute Nacional De Estadistica	2007	Poverty and its measurement: The presentation of a range of methods to obtain measures of poverty.	X
+Lister, R.	2004	Poverty.	Monograph
+National Economic and Development Authority	2011	Philippine Development Plan 2011-2016.	Monograph
+Natividad, J.	2013	Teenage pregnancy in the Philippines: Trends, correlates and data sources.	Journal Article
+Oxford Poverty & Human Development Initiative	2015	Global MPI Interactive Data: Philippines.	Online
+Oxford Poverty & Human Development Initiative	2011	Multidimensional Poverty Index (MPI) at a glance (Country Briefing: Philippines).	Monograph 
+Philippine Statistics Authority - National Statistical Coordination Board	n. d.	2013 First Philippine Statistics Authority Semester Poverty Statistics.	Online
+Philippine Statistics Authority - National Statistical Coordination Board	2013	Poverty statistics - Data and charts.	Online 
+Reyes, C., & Tabuga, A.	2012	Conditional Cash Transfer Program in the Philippines: Is it Reaching the Extremely Poor?	Discussion Paper
+Reyes, C., & Valencia, L.	n. d.	Poverty Reduction Strategy and Poverty Monitoring: Philippine Case Study.	Online
+Rutstein, S.	n. d.	Steps to constructing the new DHS Wealth Index.	Online
+Rutstein, S.	2008	The DHS Wealth Index: Approaches for Rural and Urban Areas.	Working Paper 
+Rutstein, S., & Johnson, K.	2004	The DHS Wealth Index.	Report
+Rutstein, S., & Staveteig, S.	2014	Making the demographic and health surveys wealth index comparable.	Report
+Sahn, D., & Stifel, D.	2000	Assets as a Measure of Household Welfare in Developing Countries.	X
+Sahn, D., & Stifel, D.	2000	Poverty comparisons over time and across countries in Africa.	Journal Article
+Siegel, J. & Swanson, D.	2004	Methods and Materials of Demography.	Monograph
+Social Weather Station	2015	First Quarter 2015 Social Weather Survey: Families rating themselves as Mahirap or Poor at 51%: Families who were food poor fall to 36%.	Survey
+Solomon-Fears, C.	2015	Teenage pregnancy and prevention: Statistics and programs.	X
+World Bank	n. d.	Poverty headcount ratio at $1-25 a day.	Online

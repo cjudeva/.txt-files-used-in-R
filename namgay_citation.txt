@@ -1,0 +1,71 @@
+Author	Year	Title	Publication Type
+Akin, M.	2005	Education and fertility: a panel data analysis for Middle Eastern countries.	Monograph
+Akman, W.	2002	Women's education and fertility rates in developing countries, with special reference to Bangladesh.	Journal Article
+Anker, R.	1978	 An analysis of fertility differentials in developing countries.	Journal Article
+Assunao, R., Schmertmann, C., Potter, J., & Cavenaghi, S.	2005	Empirical Bayes estimation of demographic schedules for small areas.	Journal Article
+Bartlema, J., Chackiel, I., Hill, K., Soliz, A., & Isaacs, M.	1985	Fertility and mortality in Bolivia and Guatemala.	Monograph
+Bindary, A., Baxter, C., & Hollingsworth, T.	1973	Urban-rural differences in the relationship between women's employment and fertility: a preliminary study.	Journal Article
+Blake, J.	1979	Is zero preferred: American attitudes toward childlessness in the 1979's.	Journal Article
+Bongaarts, J.	1983	Fertility behaviour: an analysis of the proximate determinants.	Monograph
+Bongaarts, J.	2006	The causes of stalling fertility transitions.	X
+Bongaarts, J., & Bulatao, R.	2000	Beyond six billion: forecasting the world's population.	Monograph
+Bongaarts, J., & Watkins, S.	1996	Social interactions and contemporary fertility transitions.	Journal Article
+Brass, W.	1975	Methods for estimating fertility and mortality from limted and defective data.	Monograph
+Brass, W., & Jolly, C.	1993	Population dynamics of Kenya.	Monograph
+Brewster, K., & Rindfuss, R.	2000	Fertility and women's employment in industrialized Nations.	Journal Article
+Brown, R., & Caire, N.	2001	Theories of fertility.	Report
+Coale, A. & Watkins, S.	1986	The decline of fertility in Europe.	Monograph
+Cochrane, S.	1979	Fertility and education: what do we really know?	Monograph
+Cohen, B.	1993	Fertility levels, differentials, and trends in demographic change in Sub-Saharan Africa.	Monograph
+Cruz, C.	2008	Phillippines fertilify transition: application of the Bongaarts Model.	Thesis
+Davis, K., & Judith, B.	1956	Social structure and fertility: an analytic framework.	Journal Article
+Department of Health Service. Ministry of Health and Education. Royal Government of Bhutan	2000	A Report: National Health Survey.	Report
+Dissanayake, L.	1996	Relative impact of starting spacing and stopping fertility behaviour in Sri Lanka.	Journal Article
+Doepke, M.	2004	Child mortality and fertility decline: does the Barro-Becker model fit the facts?	Monograph
+Dorji, T.	2010	Infant and child mortality in Bhutan.	Thesis
+El-Ghannam, A.	2005	An examinaton of factors affecting fertility rate differentials as compared among women in less and more developed countries.	Journal Article
+El-Shalakani, M.	1989	Estimation of fertility and mortality of the Kuwaiti population.	Journal Article
+Farooq, G., & DeGraff, D.	1988	Fertility and development: an introduction to theory, emprical research and policy issues.	Monograph.
+Feeney, G.	1996	A new interpretation of Brass' P/F Ratio Method applicable when fertility is declining.	Online
+Feeney, G.	1983	Population dynamics based on birth intervals and parity progression.	Monograph
+Feeney, G.	1975	The own-children method of estimating age-specific fertility rates. Demographic Analysis and Data Evaluation Workshop.	Monograph
+Herein, A.	1979	Rural electrification and fertility change in the Southern Philippines.	Journal Article
+Hinds, A.	1998	Demographic methods.	Monograph
+Islam, N., & Islam, M.	1990	Biological and behavioural determinants of fertility in Bagladesh 1975-1989.	Monograph
+Jejeebhoy, S.	1995	Women's education, autonomy and reproductive behavior: Experience from developing countries.	Monograph
+Kenya Ministry of Health	2004	Kenya Demographic Health Survey.	Survey
+Klasen, S., & Launov, A.	2006	Analysis of the determinants of fertility decline in the Czech Republic.	Journal Article
+Lloyd, C.	1991	The contribution of the world fertility surveys to an understanding of the relation between women's work and fertility.	Journal Article
+Luo, S.	2004	Women's working and timing of second birth in the Philippines.	Monograph
+Martin, T.	1995	Women's education and fertility: results from demographic and health surveys.	Journal Article
+Mhloyi, M.	1992	African Journals.	Journal Article
+Ministry of Education	2004	Education system in Bhutan.	Online
+Moultri, T., & Dorrington, R.	2004	Estimation of fertility from the 2001 South Africa Census Data.	Monograph
+Moultri, T., & Dorrington, R.	2008	Sources of error and bias in methods of fertility estimation contingent on the P/F ratio in a time of decline fertility and rising mortality.	Journal Article
+National Statistics Bureau, Royal Government og Bhutan	2008	Dzongkhag population projections 2006-2015.	Monograph
+National Statistics Bureau, Royal Government og Bhutan	2004	Poverty analysis of Bhutan.	Monograph
+Nguven-Dinh, Y.	1997	A socioeconomic analysis of the determinants of fertility: the case of Vietnam.	Journal Article
+Notestein, F.	1953	Economic problem of population change.	Monograph
+Office of the Census Commissioner, Royal Government of Bhutan	2006	Results of population & housing 2005.	Monograph
+Ogasawara, S.	1974	Regional fertility differences and their changes in Japan. 1960-1970: the science reports of Tohoku University.	Journal Article
+Palmore, J., & Gardner, R.	1994	Measuring mortality, fertility and natural increase.	Monograph
+Palmore, J., Sarmento, E., & Gultiano, S.	1971	Fertility estimates for the Philippines, 1970 and 1980, by prftuince and urban-rural residence.	Monograph
+Peng, T.	2002	Social, economic and ethnic fertility differentials in Peninsular Malaysia. Asia's population in a changing Asian context.	Monograph
+Perez, A.	1994	Fertility in the Philippines: what the 1993 National Demographic Survey says.	Survey
+Planning Commission, Royal Government of Bhutan	2006	Guidelines for preparation the Tenth Plan (2007-2012).	Monograph
+Rosenzweig, M.	1977	Female work experience status, employment status, and  birth expectations: sequential decision making in the Philippines.	Journal Article
+Razzaque, A., Islam, M., & Alam, N.	1998	Contraception among limiters and spacers in Matlab, Bangladesh.	Journal Article
+Schertmann, C.	2002	A simple method for estimating age specific rates from sequential cross section.	Journal Article
+Schertmann, C.	1999	Fertility estimation from open birth-interval data.	Journal Article
+Schoen, R.	2004	Timing effects and the interpretation for period fertility.	Journal Article
+Sen, A.	1999	Development as freedom.	Monograph
+Shryock, H., & Siegel, J.	1976	The methods and materials of demography.	Monograph
+The Department of Family and Community Health, World Health Organization	X	WHO, Regional Office of South East Asia.	Online 
+Tripathy, P., & Sarangi, K.	2004	Proximate determinants of fertility in India.	Journal Article
+Udjo, E.	1996	Is fertility falling in Zimbabwe?	Journal Article
+United Nations	1983	Manual X: indirect techniques for demographic estimations.	Monograph
+United Nations	2009	UN data.	Monograph
+United Nations	X	World population prospects: The 2008 revision.	Online
+US Department of Commerce	1985	Evaluating censuses of population and housing.	Monograph
+Yusuf, F., & Retherford, R.	1981	Urban-rural fetility differentials in Pakistan.	Journal Article
+Weeks, J.	1992	Population: an introduction to concepts and issues.	Monograph
