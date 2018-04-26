@@ -1,0 +1,62 @@
+Author	Year	Title	Publication Type
+Agarwal, T., et. al.	2008	Impact of iron supplementation on anemia during pregnancy.	Journal Article
+Agresti, A., & Finlay, B.	2009	Statistical methods for the social science.	Monograph
+Asian Development Bank	2007	Philippines: women's health and safe motherhood project.	Report
+Babalola, S. & Fatusi, A.	2009	Determinants of use of maternal health services in Nigeria - looking beyond individual and household factors.	Journal Article
+Chakraborty, N. et. al.	2003	Determinants of the use of maternal health services in rural Bangladesh.	Journal Article
+Demographic Research and Development Foundation, Inc.	2010	The UNFPA 6th country programme endline survey report.	Report
+Department of Health	2008	Administrative Order No. 2008 - 0029.	Law
+Dilip, T. R. & Mishra, U. S.	2009	Divide in maternal health care use in rural India: the relative impact of education and economic status.	Online
+Falkingham, J.	2003	Inequality and changes in women's use of maternal health-care services in Tajikistan.	Journal Article
+Gage, A., & Calixte, M.	2006	Effects of the physical accessibility of maternal health services on their use in rural Haiti.	Journal Article
+Graczyk, K.	2007	Adolescent maternal mortality: an overlooked crisis. Advocates for Youth, Rights Respect Responsibility.	Monograph
+Habibov, N. & Fon, L.	2008	Modeling prenatal health care utilization in Tajikistan using a two-stage approach: implications for policy and research.	Journal Article
+Hazarika, I.	2010	Factors that determine the use of skilled care during delivery in India: implications for achievement of MDG-5 Targets.	Journal Article
+Hoque, M. N.	2009	Individual's characteristics affecting maternal health services utilization: married adolescents and their use of maternal health services in Bangladesh .	Journal Article
+Jayaraman, A.	2008	Factors affecting maternal health care seeking behaviors in Rwanda.	Monograph
+Kinzie, B. & Gomez, P.	2004	Basic maternal and newborn care: A guide for skilled providers.	Monograph
+Koenig, M.	2007	Maternal health and care-seeking behavior in Bangladesh: Findings from a national survey.	Journal Article
+Magadi, M.	2007	A comparative analysis of the use of maternal health services between teenagers and older mothers in sub-Saharan Africa: evidence from demographic and health surveys (DHS).	Journal Article
+Matsumura, M., & Gubhaju, B.	2001	Women's status, household structure, and the utilization of maternal health services in Nepal.	Journal Article
+Mekonnen, Y. & Mekonnen, A.	2002	Utilization of maternal health care services in Ethiopia.	Monograph 
+National Statistical Coordination Board	X Health facilities and government health manpower 1999-2007.	Online
+National Statistics Office, & ICE Macro	2009	National demographic and health survey 2008.	Monograph
+National Statistics Office	2007	2006 Family planning survey final report.	Report
+National Statistics Office, & ORC Macro	2004	National demographic and health survey 2003.	Monograph
+National Statistics Office, Department of Health, & Macro International Inc.	1999	National demographic and health survey 1998.	Survey
+National Statistics Office,  & Macro International Inc.	1994	National demographic survey 1993.	Survey
+Nisar, N., & White, F.	2003	Factors affecting utilization of antenatal care among reproductive age group women (15-49 years) in an urban squatter settlement of Karachi.	Journal Article
+Ochako, R.	2011	Utilization of maternal health services among young women in Kenya: Insights from the Kenya demographic and health survey, 2003.	Journal Article
+Olvena, V. & Rogan, S.	2004	Factors affecting maternal health utilization in the Philippines.	X
+Philippine Legislators' Committee on Population and Development Foundation, Inc.	2010	PEOPLE COUNT: PLCPD Policy Brief.	Law
+Philippine Legislators' Committee on Population and Development Foundation, Inc.	2009	PEOPLE COUNT: PLCPD Policy Brief.	Law
+X	2007	Philippines Midterm Progress Report on the Millennium Development Goals.	Report
+Philippine NGO Council for Population Health and Welfare Inc.	2009	From an NGO lens: the ICPD at 15.	Report
+Rahman, M.	2010	The determinants of use of postnatal care services for mothers: does differential exists between urban and rural areas in Bangladesh?	Journal Article
+Raj, P.	2005	Pregnancy complication and health-seeking behavior among married women in Uttar Pradesh, India.	Journal Article
+Rajasekhar, K.	2007	Place of birth: why urban women still prefer home deliveries?	Journal Article
+Reynolds, H.	2003	Maternal health care among adolescents.	X
+Save the Children	2009	State of Filipino mothers 2008: saving mothers' lives, ensuring children's survival.	X
+Sanyukta, M.	2003	Too young to wed: the lives and rights of young married girls.	X
+Shaikh, B. & Hatcher, J.	2005	Health seeking behavior and health service utilization in Pakistan: challenging the policy makers.	Journal Article
+Sines, U.	2007	Postnatal care: a critical opportunily to save mothers and newborns.	X
+Short, S. & Zhang, F.	2004	Use of maternal health services in rural China.	Journal Article
+Stephenson, R.	2006	Contextual influences on the use of health facilities for childbirth in Africa.	Journal Article
+Tonn, C.	2007	Use of antenatal services and delivery care in Entebbe, Uganda: A community survey.	Journal Article
+United Nations Children's Fund	2009	UN urges DoH to probe why 11 mothers die due to pregnancy or childbirth.	Online
+United Nations Children's Fund	2008	The store of the world's children.	X
+United Nations Children's Fund	2000	The progress of nations 2000.	X
+United Nations Development Programme	n. d.	Philippine commitment to the millennium development goals.	Online
+United Nations Population Fund	2004	The state of the world population: adolescents and young people.	Online
+United States Agency for International Development	2007	Focused antenatal care: providing integrated, individualized care during pregnancy.	Monograph 
+World Health Organization	2011	Country health profiles.	Online
+World Health Organization	2010	WHO Fact Sheet No. 348.	Online
+World Health Organization	2008	The state of adolescent health.	Online
+World Health Organization, United Nations Children's Fund, United Nations Population Fund, & The World Bank	2007	Maternal mortality in 2005.	Monograph
+World Health Organization	2006	Pregnant Adolescents.	X Geneva.
+World Health Organization	2005	The World Health Report 2005: Make Every Mother and Child Count.	Report
+World Health Organization	2004	Making pregnancy safer: the critical role of the skilled attendant.	Joint Statement
+World Health Organization	2003	Antenatal care in developing countries: promises, achievements and missed opportunities - an analysis of trends, levels, and differentials, 1990-2001.	Monograph
+World Health Organization	1998	Postpartum care of the mother and newborn: a practical guide.	X 
+YouthNet	2002	Interventions strategies that work for the youth.	Report
+X	2009	Influence of adolescent pregnancy on maternal health care services. Does it Vary Between Rural and Urban Areas?	Paper
